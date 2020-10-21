@@ -34,6 +34,7 @@
   },
   "homepage": "https://github.com/adrayv/chromecapture#readme",
   "dependencies": {
+    "gif.js.optimized": "^1.0.1",
     "react": "^16.14.0",
     "react-dom": "^16.14.0"
   },
